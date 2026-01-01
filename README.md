@@ -8,6 +8,8 @@ Classification Decision Tree
 ![2.png](./images/2.png)
 Regression Decision Tree
 ![3.png](./images/3.png)
+Simple Classification Decision Tree
+![4.png](./images/4.png)
 
 
 ## Resources
