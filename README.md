@@ -2,7 +2,13 @@
 
 ## Decision Trees
 
+Simplest Decision Tree
 ![1.png](./images/1.png)
+Classification Decision Tree
+![2.png](./images/2.png)
+Regression Decision Tree
+![3.png](./images/3.png)
+
 
 ## Resources
 ### Decision Trees
