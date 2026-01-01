@@ -11,6 +11,9 @@ Regression Decision Tree
 Simple Classification Decision Tree
 ![4.png](./images/4.png)
 Terminologies
+- Root Node: Statement At The Start (Outgoing Decision Only)
+- Intermediate/Internal Node: Incoming And Outgoing Decision
+- Leaf Node: Final Value (Incoming Decision Only)
 ![5.png](./images/5.png)
 
 
