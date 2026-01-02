@@ -29,6 +29,11 @@ Training Data: Both Continuous And Discrete Data
 
 ![6.png](./images/6.png)
 
+Why Not Logistic Regression?
+
+![7.png](./images/7.png)
+
+- Plotting Age Vs Output: Not Separable Using Logistic Regression
 
 ## Resources
 ### Decision Trees
