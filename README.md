@@ -46,6 +46,7 @@ Purity Of Leaf Nodes
 
 - Impure Node: Mixture Of Outputs
 - Pure Node: Single Type Of Output
+- Aim: Choose Statement With Highest Pure Node ("Loves Cartoon" Has More Pure Nodes Than "Loves Movies")
 
 ## Resources
 ### Decision Trees
