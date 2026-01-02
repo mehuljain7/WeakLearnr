@@ -35,6 +35,10 @@ Why Not Logistic Regression?
 
 - Plotting Age Vs Output: Not Separable Using Logistic Regression
 
+Decision Tree For Above Example
+
+![8.png](./images/8.png)
+
 ## Resources
 ### Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
