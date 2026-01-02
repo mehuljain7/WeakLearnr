@@ -17,6 +17,10 @@ Terminologies
 
 ![5.png](./images/5.png)
 
+Training Data: Both Continuous And Discrete Data
+
+![6.png](./images/6.png)
+
 
 ## Resources
 ### Decision Trees
