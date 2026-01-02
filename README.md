@@ -19,6 +19,7 @@ Simple Classification Decision Tree
 ![4.png](./images/4.png)
 
 Terminologies
+
 - Root Node: Statement At The Start (Outgoing Decision Only)
 - Intermediate/Internal Node: Incoming And Outgoing Decision
 - Leaf Node: Final Value (Incoming Decision Only)
@@ -35,9 +36,16 @@ Why Not Logistic Regression?
 
 - Plotting Age Vs Output: Not Separable Using Logistic Regression
 
-Decision Tree For Above Example
+Sample Decision Tree For The Above Example
 
 ![8.png](./images/8.png)
+
+Purity Of Leaf Nodes
+
+![9.png](./images/9.png)
+
+- Impure Node: Mixture Of Outputs
+- Pure Node: Single Type Of Output
 
 ## Resources
 ### Decision Trees
