@@ -67,7 +67,9 @@ Gini Impurity Visualisation
 
 Entropy
 
-- $`E=-[P(No)log(P(No)) + P(Yes)log(P(Yes))]`$
+- $`E_{leaf}=-[P(No)log(P(No)) + P(Yes)log(P(Yes))]`$
+- $` w_{leaf} = \frac{n_{leaf}}{N} `$
+- $` E_T = w_{leaf_1} \times E_{leaf_1} + w_{leaf_2} \times E_{leaf_2}`$
 
 ## Resources
 ### Decision Trees
