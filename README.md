@@ -55,7 +55,13 @@ Gini Impurity
 - $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` G_T = w_{leaf_1} \times G_{leaf_1} + w_{leaf_2} \times G_{leaf_2}`$
 
-![10.png](./images/10.png) ![11.png](./images/11.png)
+![10.png](./images/10.png) 
+![11.png](./images/11.png)
+
+Gini Impurity Visualisation
+
+- The More Unequal The Probabilities, The More Pure The Leaf
+- The More Equal The Probabilities, The More Impure The Leaf
 
 ## Resources
 ### Decision Trees
