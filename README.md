@@ -48,6 +48,11 @@ Purity Of Leaf Nodes
 - Pure Node: Single Type Of Output
 - Aim: Choose Statement With Highest Pure Node ("Loves Cartoon" Has More Pure Nodes Than "Loves Movies")
 
+Gini Impurity
+
+- Helps Quantify Leaf Node Purity
+- $ Gini Impurity = 1 - P(Yes)^2 - P(No)^2 $
+
 ## Resources
 ### Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
