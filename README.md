@@ -51,7 +51,7 @@ Purity Of Leaf Nodes
 Gini Impurity
 
 - Helps Quantify Leaf Node Purity
-- $` G_{leaf} = 1 - P(Yes)^2 - P(No)^2 `$
+- $` G_{leaf} = 1 - P(No)^2 - P(Yes)^2 `$
 
 ## Resources
 ### Decision Trees
