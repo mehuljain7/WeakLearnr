@@ -52,7 +52,7 @@ Gini Impurity
 
 - Helps Quantify Leaf Node Purity
 - $` G_{leaf} = 1 - P(No)^2 - P(Yes)^2 `$
-- $` w_{leaf} = \frac{n_{Leaf}}{n_{All}} `$
+- $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` G_T = w_{leaf_1} \times G_{leaf_1} + w_{leaf_2} \times G_{leaf_2}`$
 
 ## Resources
