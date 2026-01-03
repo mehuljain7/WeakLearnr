@@ -62,7 +62,7 @@ Gini Impurity Visualisation
 
 ![12.png](./images/12.png)
 
-- The More Unequal The Probabilities, The More Pure The Leaf $`(p=0,1)`$
+- The More Unequal The Probabilities, The More Pure The Leaf $`(p=0~or~1)`$
 - The More Equal The Probabilities, The More Impure The Leaf $`(p=0.5)`$
 
 ## Resources
