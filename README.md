@@ -55,7 +55,7 @@ Gini Impurity
 - $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` G_T = w_{leaf_1} \times G_{leaf_1} + w_{leaf_2} \times G_{leaf_2}`$
 
-![10.png](./images/10.png) 
+![10.png](./images/10.png)
 ![11.png](./images/11.png)
 
 Gini Impurity Visualisation
@@ -70,6 +70,9 @@ Entropy
 - $`E_{leaf}=-[P(No)log(P(No)) + P(Yes)log(P(Yes))]`$
 - $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` E_T = w_{leaf_1} \times E_{leaf_1} + w_{leaf_2} \times E_{leaf_2}`$
+
+![12.png](./images/12.png)
+![13.png](./images/13.png)
 
 ## Resources
 ### Decision Trees
