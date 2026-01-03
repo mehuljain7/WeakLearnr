@@ -20,11 +20,11 @@ Simple Classification Decision Tree
 
 Terminologies
 
+![5.png](./images/5.png)
+
 - Root Node: Statement At The Start (Outgoing Decision Only)
 - Intermediate/Internal Node: Incoming And Outgoing Decision
 - Leaf Node: Final Value (Incoming Decision Only)
-
-![5.png](./images/5.png)
 
 Training Data: Both Continuous And Discrete Data
 
