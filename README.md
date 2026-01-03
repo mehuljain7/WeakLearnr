@@ -55,6 +55,8 @@ Gini Impurity
 - $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` G_T = w_{leaf_1} \times G_{leaf_1} + w_{leaf_2} \times G_{leaf_2}`$
 
+![10.png](./images/10.png) ![11.png](./images/11.png)
+
 ## Resources
 ### Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
