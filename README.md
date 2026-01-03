@@ -65,6 +65,10 @@ Gini Impurity Visualisation
 - The More Unequal The Probabilities, The More Pure The Leaf $`(p=0~or~1)`$
 - The More Equal The Probabilities, The More Impure The Leaf $`(p=0.5)`$
 
+Entropy
+
+- $`E=-[P(No)log(P(No)) + P(Yes)log(P(Yes))]`$
+
 ## Resources
 ### Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
