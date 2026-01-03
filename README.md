@@ -78,8 +78,8 @@ Entropy Visualisation
 
 ![15.png](./images/15.png)
 
-## Resources
-### Decision Trees
+# Resources
+## Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
 2. [Let us start building a decision tree!](https://www.youtube.com/watch?v=2_DQ-jsDqf0&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=2)
 3. [What is Gini Impurity?](https://www.youtube.com/watch?v=R8seoseB-Bc&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=4)
