@@ -60,6 +60,8 @@ Gini Impurity
 
 Gini Impurity Visualisation
 
+![12.png](./images/12.png)
+
 - The More Unequal The Probabilities, The More Pure The Leaf
 - The More Equal The Probabilities, The More Impure The Leaf
 
