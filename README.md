@@ -71,8 +71,8 @@ Entropy
 - $` w_{leaf} = \frac{n_{leaf}}{N} `$
 - $` E_T = w_{leaf_1} \times E_{leaf_1} + w_{leaf_2} \times E_{leaf_2}`$
 
-![12.png](./images/12.png)
 ![13.png](./images/13.png)
+![14.png](./images/14.png)
 
 ## Resources
 ### Decision Trees
