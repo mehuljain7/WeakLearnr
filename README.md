@@ -78,6 +78,16 @@ Entropy Visualisation
 
 ![15.png](./images/15.png)
 
+Gini Impurity And Entropy For Numerical Values
+
+- Sort Based on Numerical Columns
+- Take Consecutive Average
+- Use Averages As Thresholds And Find Gini Impurity And Entropy
+- Can't Use Feature Values Directly: Overfitting
+- Can't Use Multiple Averages: Computationally Expensive For Same Splits
+
+![16.png](./images/16.png)
+
 # Resources
 ## Decision Trees
 1. [What are decision trees?](https://www.youtube.com/watch?v=JwLKSCJmouU&list=PLPTV0NXA_ZSjXY1XnEmtyHN5do21KCgJR&index=1)
