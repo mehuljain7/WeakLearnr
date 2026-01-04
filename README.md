@@ -87,6 +87,7 @@ Gini Impurity And Entropy For Numerical Values
 - Can't Use Multiple Averages: Computationally Expensive For Same Splits
 
 ![16.png](./images/16.png)
+![17.png](./images/17.png)
 
 # Resources
 ## Decision Trees
